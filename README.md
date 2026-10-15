@@ -27,6 +27,7 @@ Flyer officiel d'une page A4 au format web (HTML5 / CSS3 purs) pour le stand **A
 │   ├── pate-antillais.jpg
 │   ├── rougail-saucisse.jpg
 │   ├── gateau-patate-douce.webp
+│   ├── flan-coco.jpg
 │   ├── jus-bissap.jpg
 │   ├── jus-gingembre.jpg
 │   ├── planteur-citron.jpg
@@ -89,4 +90,4 @@ Le flyer utilise des règles `@media print` strictes calibrées pour le format A
 - **Entrées & Plats :** Pâté antillais (porc/poulet) - 2,50 € | Rougail Saucisse, haricots rouges & riz blanc - 9,90 €
 - **Desserts :** Gâteau patate douce blanche - 2,50 € | Flan coco - 2,50 €
 - **Boissons :** Jus de Bissap - 3,00 € | Jus de Gingembre - 3,00 € | Planteur exotique ou citron (verre 3,50 € / litre 26,00 €) | Eau minérale - 1,50 €
-- **Logistique :** Prestataire Expedite, besoin technique : prise électrique à proximité (maintien au chaud).
+- **Logistique :** Prestataire Afro Gourmets (Nadia & Expédite), besoin technique : prise électrique à proximité (maintien au chaud).
