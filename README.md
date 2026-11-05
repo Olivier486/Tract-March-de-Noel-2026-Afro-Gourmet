@@ -87,6 +87,6 @@ Le flyer utilise des règles `@media print` strictes calibrées pour le format A
 ## 🍽️ Contenu du Stand
 
 - **Entrées & Plats :** Pâté antillais (porc/poulet) - 2,50 € | Rougail Saucisse, haricots rouges & riz blanc - 9,90 €
-- **Desserts :** Gaufre gourmande - 3,00 € (+1,00 € pour garniture au choix : sucre, chocolat, beurre de caramel, confiture ou chantilly)
+- **Desserts :** Gaufre gourmande - 3,00 € (+0,50 € pour garniture au choix : sucre, chocolat, beurre de caramel, confiture ou chantilly)
 - **Boissons :** Café - 1,00 € | Jus de Bissap - 3,00 € | Jus de Gingembre - 3,00 € | Planteur exotique ou citron (verre 3,50 € / bouteille 1 L 28,00 €) | Eau minérale - 1,50 €
 - **Logistique :** Prestataire Afro Gourmets (Nadia & Expédite), besoin technique : prise électrique à proximité (maintien au chaud).
