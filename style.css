@@ -381,11 +381,11 @@ body {
 }
 
 .section-desserts {
-  flex: 0.9;
+  flex: 0.85;
 }
 
 .section-drinks {
-  flex: 1.1;
+  flex: 1.15;
 }
 
 /* --- SECTION 2: DESSERTS --- */
@@ -506,12 +506,13 @@ body {
 }
 
 .drink-price-multi {
-  font-size: 0.78rem;
+  font-size: 0.77rem;
   color: var(--text-dark);
   text-align: right;
   line-height: 1.35;
   white-space: nowrap;
-  min-width: 95px;
+  flex-shrink: 0;
+  margin-left: 8px;
 }
 
 .drink-price-multi strong {
